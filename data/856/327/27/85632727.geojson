@@ -12,6 +12,9 @@
     "geom:longitude":-67.689731,
     "gp:id":0,
     "iso:country":"AN",
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":12.194274,
     "lbl:longitude":-68.249092,
     "mps:latitude":12.194274,
@@ -933,7 +936,7 @@
         }
     ],
     "wof:id":85632727,
-    "wof:lastmodified":1563335374,
+    "wof:lastmodified":1565651813,
     "wof:name":"Netherlands",
     "wof:parent_id":-1,
     "wof:placetype":"country",
