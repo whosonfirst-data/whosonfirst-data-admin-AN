@@ -6,12 +6,15 @@
     "edtf:deprecated":"2017-09-11",
     "edtf:inception":"uuuu",
     "geom:area":0.026734,
-    "geom:area_square_m":322213888.43882,
+    "geom:area_square_m":322213545.672945,
     "geom:bbox":"-68.419556,12.028722,-62.942944,17.648556",
     "geom:latitude":12.804576,
     "geom:longitude":-67.689735,
     "gp:id":0,
     "iso:country":"AN",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "AN"
     ],
@@ -1051,6 +1054,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_year":"2022",
     "wd:wordcount":19987,
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -1061,7 +1066,7 @@
     },
     "wof:country":"AN",
     "wof:country_alpha3":"ANT",
-    "wof:geomhash":"e9d4afe0c74d27588fe2e5da9367f7b7",
+    "wof:geomhash":"71d01b2b58c576c8519f7bf6d79b227b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -1069,10 +1074,12 @@
         }
     ],
     "wof:id":85632727,
-    "wof:lastmodified":1690850211,
+    "wof:lastmodified":1694492034,
     "wof:name":"Netherlands",
     "wof:parent_id":-1,
     "wof:placetype":"country",
+    "wof:population":27726,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-an",
     "wof:shortcode":"AN",
     "wof:superseded_by":[
