@@ -1055,7 +1055,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wd",
-    "src:population_year":"2022",
+    "src:population_date":"2022",
     "wd:wordcount":19987,
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -1074,7 +1074,7 @@
         }
     ],
     "wof:id":85632727,
-    "wof:lastmodified":1694492034,
+    "wof:lastmodified":1694639491,
     "wof:name":"Netherlands",
     "wof:parent_id":-1,
     "wof:placetype":"country",
