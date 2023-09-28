@@ -25,7 +25,7 @@
     "mps:latitude":12.194274,
     "mps:longitude":-68.249092,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":0.0,
     "name:abk_x_preferred":[
         "\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u049b\u04d9\u0430"
@@ -1062,8 +1062,10 @@
     "wof:concordances":{
         "hasc:id":"AN",
         "icao:code":"PJ",
+        "iso:code":"AN",
         "wd:id":"Q55"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"AN",
     "wof:country_alpha3":"ANT",
     "wof:geomhash":"71d01b2b58c576c8519f7bf6d79b227b",
@@ -1074,7 +1076,7 @@
         }
     ],
     "wof:id":85632727,
-    "wof:lastmodified":1694639491,
+    "wof:lastmodified":1695881144,
     "wof:name":"Netherlands",
     "wof:parent_id":-1,
     "wof:placetype":"country",
